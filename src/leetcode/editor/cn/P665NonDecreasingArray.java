@@ -21,5 +21,5 @@ class NonDecreasingArray {
             return cnt <= 1;
         }
     }
-
 }
+
